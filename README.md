@@ -6,7 +6,7 @@ Someone who likes to learn
 
 * 🌍  I'm based in Mexico
 * ✉️  You can contact me at [eminasol@outlook.com](mailto:eminasol@outlook.com)
-* 🧠  I'm learning Javascript
+* 🧠  I'm learning Data Analysis in Python
 * ⚡  I get paid for recruiting in IT
 
 <a href="https://www.twitter.com/hukitan" target="_blank" rel="noreferrer"><img
